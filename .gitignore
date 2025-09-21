@@ -1,0 +1,5 @@
+*.bit
+*.rpt
+*.jou
+*.log
+vivado*.str
